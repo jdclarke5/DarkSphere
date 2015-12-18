@@ -3,4 +3,4 @@ PLUTO code for plasma wind interaction with a spherical obstacle (2D, aligned B 
 
 [Coming soon!]
 
-# Description of files
+## Description of files
