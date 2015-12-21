@@ -5,6 +5,8 @@ If you would like to run the below simulations you will first need to install th
 
 ## Description of files
 
+**VenusLike_cs200.gif**: An animation of the Venus-like scenario with cs=200km/s and RE/RDM=2; the black corresponds to Gran Sasso and the red to Stawell.
+
 ### /PLUTO
 
 Herein lies the DarkSphere PLUTO simulation code files.
